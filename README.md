@@ -5,7 +5,7 @@
 ##  Objectif du projet
 Ce projet vise à prouver, par la simulation numérique, pourquoi la physique classique (Newton) ne suffit pas à expliquer la rotation des galaxies. J'ai confronté les lois théoriques aux **données réelles de la galaxie NGC 3198**.
 
-##  Le Problème (Niveau 3)
+##  Le Problème 
 Selon Newton, plus on s'éloigne du centre d'une galaxie, plus les étoiles devraient ralentir. 
 **Pourtant, l'observation montre que la vitesse reste constante.**
 
