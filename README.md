@@ -17,7 +17,7 @@ J'ai implémenté trois approches dans mon script `main.py` :
 3.  Modèle MOND :** Une alternative qui modifie la loi de la gravité à faible accélération.
 
 ## Visualisation des Résultats
-> Note :Insère ici ton graphique généré par le code. On y voit clairement que la courbe de Newton (rouge) s'effondre alors que les observations (points noirs) restent stables.
+![Résultats de la simulation](graphique.png)
 
 ## Conclusion de l'analyse
 Ce projet démontre que pour que les galaxies soient stables, soit :
